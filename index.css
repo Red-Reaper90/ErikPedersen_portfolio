@@ -1,0 +1,9 @@
+.uofured {
+    background-color: rgb(204, 0, 0);
+    color: white;
+}
+
+.border {
+    border-radius: 10px;
+    border-color: black;
+}
